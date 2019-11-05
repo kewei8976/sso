@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-05T10:04:31.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="8nuauaGzpNzlJhhrt6QC" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T10:07:45.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="_SMfULneBZA7e-7lWTIw" version="12.2.0" type="github" pages="1">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
-    <mxGraphModel dx="1172" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -45,6 +45,18 @@
         </mxCell>
         <mxCell id="YmSXFMbT3fj_6tVcl6kP-15" value="财务管理&lt;br&gt;报表管理、数据分析&lt;br&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;纳米&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1100" y="450" width="160" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="YmSXFMbT3fj_6tVcl6kP-16" value="&amp;nbsp; &amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="395" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="YmSXFMbT3fj_6tVcl6kP-17" value="&amp;nbsp; &amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="386" y="-252" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="YmSXFMbT3fj_6tVcl6kP-18" value="&amp;nbsp;&amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1182" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="YmSXFMbT3fj_6tVcl6kP-19" value="&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="382" width="30" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
